@@ -1,0 +1,18 @@
+<head>
+
+<link rel="shortcut icon" href="iconsign.png" type="image/x-icon"> 
+
+     <link rel="stylesheet" href="style.css">
+    <script src="script.js "></script> 
+<head>
+
+<body>
+    <h2>frequently asked question</h2>
+<details><summary>whocreate this site.</summary>
+project1- create by gaurav jain</details>
+<details>
+<summary>owner mail</summary a href="gauravjain2498@gmail.com">gauravjain2498@gmail.com</details>
+
+<footer>
+<p>&#169; 2023 gaurav, all rights reserved.</p>
+<body>
