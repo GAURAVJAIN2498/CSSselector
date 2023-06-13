@@ -1,0 +1,36 @@
+
+<head>
+<style>
+ 
+
+    p{
+        font-style:italic;
+        font-size: 25px;
+        font-family:initial;
+        font-weight: 10px;
+        line-height: 25px;
+    list-style:decimal ;
+    }
+    #firstID{background-color: rgb(237, 107, 239) ;
+              color: blue;      
+    }
+    #secondID{
+        background-color: rgb(230, 142, 75);}
+        #thirdID{
+        background-color: rgba(136, 236, 78, 0.557);
+        }
+     .firstclass{
+       background-color: #b434eb; 
+     }   
+     .secondclass{
+       background-color: hsl(207, 72%, 55%); 
+     }
+     h1{
+        text-align: center;
+        font-size: xx-large;
+     }
+   
+</style>
+<head>
+
+// use lorem to add paragraph for practise //
